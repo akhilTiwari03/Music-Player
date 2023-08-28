@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.harshRajpurohit.musicPlayer"
+        applicationId "com.akhiltiwari.musicPlayer"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 8
@@ -34,7 +34,7 @@ android {
     buildFeatures{
         viewBinding true
     }
-    namespace 'com.harshRajpurohit.musicPlayer'
+    namespace 'com.akhiltiwari.musicPlayer'
 }
 
 dependencies {

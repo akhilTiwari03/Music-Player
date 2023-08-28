@@ -3,6 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_about.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_favourite.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_feedback.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_play_next.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_playlist.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_playlist_details.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_selection.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/activity_settings.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/add_playlist_dialog.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/audio_booster.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/details_view.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/favourite_view.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/fragment_now_playing.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/more_features.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/music_view.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/nav_header.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/layout/playlist_view.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/menu/search_view_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/music_player.xml" value="0.1" />
+        <entry key="..\:/Users/akhil/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/music_player_icon.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/booster_icon.xml" value="0.16666666666666666" />
         <entry key="app/src/main/res/drawable/curved_dialog.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/drawable/gradient_blue.xml" value="0.20416666666666666" />
@@ -27,7 +51,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
